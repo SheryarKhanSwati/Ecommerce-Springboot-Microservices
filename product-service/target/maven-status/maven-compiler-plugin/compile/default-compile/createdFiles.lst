@@ -1,0 +1,11 @@
+com\ecommerice\productservice\Repository\ProductRepositoty.class
+com\ecommerice\productservice\entities\Product.class
+com\ecommerice\productservice\controller\ProductController.class
+com\ecommerice\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\ecommerice\productservice\entities\Product$ProductBuilder.class
+com\ecommerice\productservice\dto\ProductRequest.class
+com\ecommerice\productservice\ProductServiceApplication.class
+com\ecommerice\productservice\service\ProductService.class
+com\ecommerice\productservice\dto\ProductResponce$ProductResponceBuilder.class
+com\ecommerice\productservice\service\impl\ProductServiceImpl.class
+com\ecommerice\productservice\dto\ProductResponce.class

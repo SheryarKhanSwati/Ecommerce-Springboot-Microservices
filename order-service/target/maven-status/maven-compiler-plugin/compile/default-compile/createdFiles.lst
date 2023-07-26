@@ -1,0 +1,12 @@
+com\ecommerce\orderservice\controller\OrderController.class
+com\ecommerce\orderservice\config\WebClientConfig.class
+com\ecommerce\orderservice\dto\OrderRequest.class
+com\ecommerce\orderservice\repository\OrderRepository.class
+com\ecommerce\orderservice\entities\OrderLineItems.class
+com\ecommerce\orderservice\service\impl\OrderServiceImpl.class
+com\ecommerce\orderservice\OrderServiceApplication.class
+com\ecommerce\orderservice\service\OrderService.class
+com\ecommerce\orderservice\entities\Order.class
+com\ecommerce\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\ecommerce\orderservice\dto\InventoryResponse.class
+com\ecommerce\orderservice\dto\OrderLineItemsDto.class
